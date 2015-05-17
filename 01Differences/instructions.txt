@@ -1,0 +1,6 @@
+Use the diff tool in Terminal to look for differences between
+the files game_old.js and game_new.js. 
+
+Command in Terminal:
+
+diff -u #fileA #fileB
